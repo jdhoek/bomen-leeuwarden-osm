@@ -1,0 +1,874 @@
+{
+  "Prunus ceracifera 'Nigra'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Prunus",
+    "species": "Prunus cerasifera",
+    "taxon": "Prunus cerasifera 'Nigra'"
+  },
+  "Quercus frainetto": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus frainetto"
+  },
+  "Juglans regia": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Juglans",
+    "species": "Juglans regia"
+  },
+  "Ulmus hollandica 'Vegeta'": {
+    "count": 12,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus hollandica",
+    "taxon": "Ulmus hollandica 'Vegeta'"
+  },
+  "Populus tremula": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus tremula"
+  },
+  "Ulmus 'Dodoens'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "taxon": "Ulmus 'Dodoens'"
+  },
+  "Cedrus (onbekend)": {
+    "count": 2,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Cedrus"
+  },
+  "Aesculus (onbekend)": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Aesculus"
+  },
+  "Prunus serrulata 'Kanzan'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Prunus",
+    "species": "Prunus serrulata",
+    "taxon": "Prunus serrulata 'Kanzan'"
+  },
+  "Ulmus minor (carpinifolia)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus minor"
+  },
+  "Populus (euroamericana) canadensis": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus x canadensis"
+  },
+  "Pyrus (fruit)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Pyrus"
+  },
+  "Acer pseudoplatanus 'Leopoldii'": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer pseudoplatanus",
+    "taxon": "Acer pseudoplatanus 'Leopoldii'"
+  },
+  "Ulmus (onbekend)": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus"
+  },
+  "Morus alba": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Morus",
+    "species": "Morus alba"
+  },
+  "Pinus nigra": {
+    "count": 1,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Pinus",
+    "species": "Pinus nigra"
+  },
+  "Sophora japonica": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Styphnolobium",
+    "species": "Styphnolobium japonica"
+  },
+  "Tilia platyphyllos": {
+    "count": 18,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia platyphyllos"
+  },
+  "Quercus robur": {
+    "count": 137,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus robur"
+  },
+  "Fagus sylvatica 'Rohanni'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fagus",
+    "species": "Fagus sylvatica",
+    "taxon": "Fagus sylvatica 'Rohanii'"
+  },
+  "Acer campestre": {
+    "count": 11,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer campestre"
+  },
+  "Quercus petraea 'Mespilifolia'": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus petraea",
+    "taxon": "Quercus petraea 'Mespilifolia'"
+  },
+  "Malus (onbekend)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Malus"
+  },
+  "Abies (onbekend)": {
+    "count": 1,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Abies"
+  },
+  "Populus canadensis (euroamericana)": {
+    "count": 14,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus x canadensis"
+  },
+  "Salix sepulcralis 'Chrysocoma'": {
+    "count": 8,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Salix",
+    "species": "Salix x sepulcralis",
+    "taxon": "Salix x sepulcralis 'Chrysocoma'"
+  },
+  "Quercus cerris": {
+    "count": 18,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus cerris"
+  },
+  "Juglans nigra": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Juglans",
+    "species": "Juglans nigra"
+  },
+  "Pyrus communis": {
+    "count": 6,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Pyrus",
+    "species": "Pyrus communis"
+  },
+  "Cercis siliquastrum": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Cercis",
+    "species": "Cercis siliquastrum"
+  },
+  "Acer cappadocicum": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer cappadocicum"
+  },
+  "Fagus sylvatica": {
+    "count": 109,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fagus",
+    "species": "Fagus sylvatica"
+  },
+  "Acer freemanii (saccharinum) 'Elegant'": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer x freemanii",
+    "taxon": "Acer x freemanii 'Elegant'"
+  },
+  "Aesculus carnea 'Briottii'": {
+    "count": 12,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Aesculus",
+    "species": "Aesculus carnea",
+    "taxon": "Aesculus carnea 'Briotii"
+  },
+  "Malus domestica 'Doeke Martens'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Malus",
+    "species": "Malus domestica",
+    "taxon": "Malus domestica 'Doeke Martens'"
+  },
+  "Fraxinus excelsior": {
+    "count": 280,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus execlsior"
+  },
+  "Acer platanoides 'Schwerdleri'": {
+    "count": 3,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer platanoides",
+    "taxon": "Acer platanoides 'Schwedleri"
+  },
+  "Platanus orientalis": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Platanus",
+    "species": "Platanus orientalis"
+  },
+  "Betula pubescens": {
+    "count": 8,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Betula",
+    "species": "Betula pubescens"
+  },
+  "Fraxinus angustifolia 'Raywood'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus angustifolia",
+    "taxon": "Fraxinus angustifolia 'Raywood'"
+  },
+  "Tilia tomentosa 'Brabant'": {
+    "count": 6,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia tomentosa",
+    "taxon": "Tilia tomentosa 'Brabant'"
+  },
+  "Thuja occidentalis": {
+    "count": 5,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Thuja",
+    "species": "Thuja occidentalis"
+  },
+  "Taxodium distichum": {
+    "count": 3,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Taxodium",
+    "species": "Taxodium distichum"
+  },
+  "Tilia cordata": {
+    "count": 29,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia cordata"
+  },
+  "Salix alba": {
+    "count": 8,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Salix",
+    "species": "Salix alba"
+  },
+  "Ulmus hollandica 'Commelin'": {
+    "count": 14,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus hollandica",
+    "taxon": "Ulmus hollandica 'Commelin'"
+  },
+  "Ulmus hollandica": {
+    "count": 81,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus hollandica"
+  },
+  "Acer saccharinum": {
+    "count": 76,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer saccharinum"
+  },
+  "Pyrus (onbekend)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Pyrus"
+  },
+  "Quercus petraea": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus petraea"
+  },
+  "Acer pseudoplatanus 'Negeria'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer pseudoplatanus",
+    "taxon": "Acer pseudoplatanus 'Negenia'"
+  },
+  "Ulmus glabra": {
+    "count": 18,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus glabra"
+  },
+  "Taxus baccata": {
+    "count": 16,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Taxus",
+    "species": "Taxus baccata"
+  },
+  "Gleditsia f. inermis": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Gleditsia",
+    "species": "Gleditsia triacanthos f. inermis"
+  },
+  "Tilia tomentosa": {
+    "count": 11,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia tomentosa"
+  },
+  "Fraxinus angustifolia": {
+    "count": 6,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus angustifolia"
+  },
+  "Liquidambar styraciflua": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Liquidambar",
+    "species": "Liquidambar styraciflua"
+  },
+  "Platanus hispanica (acerifolia)": {
+    "count": 87,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Platanus",
+    "species": "Platanus x hispanica"
+  },
+  "Ginkgo biloba": {
+    "count": 6,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ginkgo",
+    "species": "Ginkgo biloba"
+  },
+  "Acer platanoides 'Royal Red'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer platanoides",
+    "taxon": "Acer platanoides 'Royal Red'"
+  },
+  "Aesculus carnea": {
+    "count": 15,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Aesculus",
+    "species": "Aesculus x carnea"
+  },
+  "Prunus avium": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Prunus",
+    "species": "Prunus avium"
+  },
+  "Tilia (leiboom. Linde)": {
+    "count": 71,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia"
+  },
+  "Fraxinus execlsior 'Jaspidea'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus excelsior",
+    "taxon": "Fraxinus excelsior 'Jaspidea'"
+  },
+  "Populus canescens": {
+    "count": 8,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus x canescens"
+  },
+  "Fraxinus excelsior 'Pendula'": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus excelsior",
+    "taxon": "Fraxinus excelsior 'Pendula'"
+  },
+  "Fagus sylvatica 'Pendula'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fagus",
+    "species": "Fagus sylvatica",
+    "taxon": "Fagus sylvatica 'Pendula'"
+  },
+  "Quercus rubra (borealis)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus rubra"
+  },
+  "Laburnum watereri 'Vossii'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Laburnum",
+    "species": "Laburnum x watereri",
+    "taxon": "Laburnum x watereri 'Vossii'"
+  },
+  "Alnus spaethii": {
+    "count": 11,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Alnus",
+    "species": "Alnus x spaethii"
+  },
+  "Thuja plicata": {
+    "count": 1,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Thuja",
+    "species": "Thuja plicata"
+  },
+  "Aesculus hippocastanum": {
+    "count": 183,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Aesculus",
+    "species": "Aesculus hippocastanum"
+  },
+  "Ulmus 'Lobel'": {
+    "count": 7,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "taxon": "Ulmus 'Lobel'"
+  },
+  "Malus (fruit)": {
+    "count": 9,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Malus"
+  },
+  "Populus nigra": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus nigra"
+  },
+  "Acer platanoides": {
+    "count": 38,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer platanoides"
+  },
+  "Robinia pseudoacacia 'Bessoniana'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Robinia",
+    "species": "Robinia pseudoacacia",
+    "taxon": "Robinia pseudoacacia 'Bessoniana'"
+  },
+  "Fagus sylvatica 'Rohan Trompenburg'": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fagus",
+    "species": "Fagus sylvatica",
+    "taxon": "Fagus sylvatica 'Rohan Trompenburg'"
+  },
+  "Robinia ambigua 'Decaisneana'": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Robinia",
+    "species": "Robinia x ambigua",
+    "taxon": "Robinia x ambigua 'Decaisneana'"
+  },
+  "Tilia europaea (vulgaris)": {
+    "count": 246,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia x europaea"
+  },
+  "Carpinus betulus": {
+    "count": 31,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Carpinus",
+    "species": "Carpinus betulus"
+  },
+  "Malus (cultivars)": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Malus"
+  },
+  "Pterocarya fraxinifolia": {
+    "count": 15,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Pterocarya",
+    "species": "Pterocarya fraxinifolia"
+  },
+  "Ulmus laevis": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus laevis"
+  },
+  "Acer pseudoplatanus": {
+    "count": 94,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer pseudoplatanus"
+  },
+  "Fagus sylvatica 'Atropunicea'": {
+    "count": 10,
+    "genus": "Fagus",
+    "species": "Fagus sylvatica",
+    "taxon": "Fagus sylvatica 'Atropunicea'"
+  },
+  "Ulmus glabra 'Exoniensis'": {
+    "count": 8,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus glabra",
+    "taxon": "Ulmus glabra 'Exoniensis'"
+  },
+  "Metasequoia glyptostroboides": {
+    "count": 4,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Metasequoia",
+    "species": "Mespilifolia glyptostroboides"
+  },
+  "Aesculus hippocastanum 'Baumannii'": {
+    "count": 19,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Aesculus",
+    "species": "Aesculus hippocastanum",
+    "taxon": "Aesculus hippocastanum 'Baumannii'"
+  },
+  "Zelkova serrata": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Zelkova",
+    "species": "Zelkova serrata"
+  },
+  "Quercus 'Mauri'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "taxon": "Quercus 'Mauri'"
+  },
+  "Ailanthus altissima": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ailanthus",
+    "species": "Ailanthus altissima"
+  },
+  "Fraxinus ornus": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus ornus"
+  },
+  "Fraxinus excelsior 'Diversifolia'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus excelsior",
+    "taxon": "Fraxinus excelsior 'Diversifolia'"
+  },
+  "Araucaria araucana": {
+    "count": 1,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Araucaria",
+    "species": "Araucaria araucana"
+  },
+  "Malus 'Enkhuizer Aagt'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Malus",
+    "taxon": "Malus 'Enkhuizer Aagt'"
+  },
+  "Acer saccharinum 'Lachiniatum Wieri'": {
+    "count": 3,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer saccharinum",
+    "taxon": "Acer saccharinum 'Laciniatum Wieri'"
+  },
+  "Betula pendula": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Betula",
+    "species": "Betula pendula"
+  },
+  "Populus trichocarpa": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus trichocarpa"
+  },
+  "Tilia (vulgaris) europaea": {
+    "count": 37,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia x europaea"
+  },
+  "Fraxinus excelsior 'Westhof's Glorie'": {
+    "count": 10,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Fraxinus",
+    "species": "Fraxinus excelsior",
+    "taxon": "Fraxinus excelsior 'Westhof's Glorie'"
+  },
+  "Ulmus minor (campestris)": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus",
+    "species": "Ulmus minor"
+  },
+  "Castanea sativa": {
+    "count": 12,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Castanea",
+    "species": "Castanea sativa"
+  },
+  "Juglans regia 'Buccaneer'": {
+    "count": 22,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Juglans",
+    "species": "Juglans regia",
+    "taxon": "Juglans regia 'Buccaneer'"
+  },
+  "Populus alba": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus alba"
+  },
+  "Paulownia tomentosa (imperialis)": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Paulownia",
+    "species": "Paulownia tomentosa"
+  },
+  "Acer negundo": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Acer",
+    "species": "Acer negundo"
+  },
+  "Picea (onbekend)": {
+    "count": 3,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Picea"
+  },
+  "Tilia (onbekend)": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia"
+  },
+  "Tilia europaea 'Euchlora'": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia x europaea",
+    "taxon": "Tilia x europaea 'Euchlora'"
+  },
+  "Pinus (onbekend)": {
+    "count": 2,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Pinus"
+  },
+  "Populus nigra 'Italica'": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Populus",
+    "species": "Populus nigra",
+    "taxon": "Populus nigra 'Italica'"
+  },
+  "Robinia pseudoacacia": {
+    "count": 10,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Robinia",
+    "species": "Robinia pseudoacacia"
+  },
+  "Quercus palustris": {
+    "count": 4,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Quercus",
+    "species": "Quercus palustris"
+  },
+  "Ulmus (Iep vormboom)": {
+    "count": 56,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Ulmus"
+  },
+  "Cedrus libani": {
+    "count": 1,
+    "leaf_type": "needleleaved",
+    "leaf_cycle": "evergreen",
+    "genus": "Cedrus",
+    "species": "Cedrus libani"
+  },
+  "Alnus incana": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Alnus",
+    "species": "Alnus incana"
+  },
+  "Tilia (vulgaris) europaea 'Pallida'": {
+    "count": 9,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Tilia",
+    "species": "Tilia x europaea",
+    "taxon": "Tilia x europaea 'Pallida'"
+  },
+  "Catalpa bignonioides": {
+    "count": 1,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Catalpa",
+    "species": "Catalpa bignonioides"
+  },
+  "Carpinus betulus 'Fastigiata'": {
+    "count": 22,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Carpinus",
+    "species": "Carpinus betulus",
+    "taxon": "Carpinus betulus 'Fastigiata'"
+  },
+  "Alnus cordata": {
+    "count": 5,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Alnus",
+    "species": "Alnus cordata"
+  },
+  "Betula nigra": {
+    "count": 2,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
+    "genus": "Betula",
+    "species": "Betula nigra"
+  }
+}

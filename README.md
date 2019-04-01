@@ -16,10 +16,11 @@ betekent dat het gebruik ervan vrij is. Deze afgeleide dataset is onder dezelfde
 
 Bij de conversie van de brondata zijn de volgende tags aangemaakt.
 
-* `species` of `genus` (afhankelijk van de waarde van `BOOMSOORT` in de brondata)
+* `genus`, en soms `species` of `taxon` (afhankelijk van de waarde van `BOOMSOORT` in de brondata)
 * `start_date` (plantjaar, uit `PLANTJAAR`)
 * `leaf_type` (afgeleid van `BOOMSOORT`) 
-* `ref:boomnummer` (referentienummer uit veld `ELEMENTNR`)
+* `leaf_cycle` (afgeleid van `BOOMSOORT`) 
+* `source:ref` (referentienummer uit veld `ELEMENTNR`)
 * `denotation=natural_monument` (voor monumentale bomen)
 * `natural=tree` (🌲)
 * `source=Monumentale en Gedenkbomen dataset gemeente Leeuwarden`
@@ -44,6 +45,10 @@ Het is niet de bedoeling dat deze dataset in een keer geïmporteerd wordt in Ope
 Op basis van de tags die in OpenStreetMap al in gebruik zijn voor de soortnamen van bomen, zijn
 spelfouten en kleine afwijkingen in de brondata gecorrigeerd. Deze fouten zijn bij de gemeente
 gemeld, en worden in een toekomstige versie hopelijk meegenomen.
+
+Verder is de soortnaam gebruikt om in ieder geval de `genus`-tag te vullen, en meestal ook
+`species`. Bij boomsoorten waar er sprake is van een *cultivar* is de volledige naam in de
+`taxon`-tag opgenomen, en bevat `species` de soortnaam zonder cultivar.
 
 Bomen die in de brondata de status van 'monumentale boom' hebben, zijn in `bomen.osm` met
 [`denotation=natural_monument`](https://wiki.openstreetmap.org/wiki/Key:denotation) gemarkeerd.

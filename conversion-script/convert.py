@@ -6,9 +6,7 @@ import json
 from lxml import etree
 
 species_found = {}
-species_known = {}
 species_lookup = {}
-needleleaved = []
 
 def show_help():
     print("{} INPUT > OUTPUT".format(sys.argv[0]))
@@ -19,28 +17,18 @@ def parse_command():
         show_help()
         sys.exit(0)
 
-    read_species_known()
     read_species_lookup()
-    read_needleleaved()
 
     convert(
         sys.argv[1]
     )
 
-def read_needleleaved():
-    with open("needleleaved.json", "r") as read_file:
-        needleleaved.extend(json.load(read_file))
-
-def read_species_known():
-    with open("species.json", "r") as read_file:
-        data = json.load(read_file)
-        for tree in data['data']:
-            species_known[tree['value']] = tree['count']
 
 def read_species_lookup():
-    with open("lookup.json", "r") as read_file:
+    with open("source_replacements.json", "r") as read_file:
         data = json.load(read_file)
         for (species, tags) in data.items():
+            del tags['count']
             species_lookup[species] = tags
 
 def convert(file_name):
@@ -62,34 +50,26 @@ def convert(file_name):
                     tag.attrib['k'] = 'note'
                 elif key == 'ELEMENTNR':
                     ref = tag.get('v').replace('.0', '')
-                    tag.attrib['k'] = 'ref:boomnummer'
+                    tag.attrib['k'] = 'source:ref'
                     tag.attrib['v'] = ref
                 elif key == 'BOOMSOORT':
                     soort = tag.get('v').replace("\"", "'")
-                    genus_or_species = 'species'
                     if soort in species_found:
                         species_found[soort]['count'] += 1
                     else:
                         species_found[soort] = {}
                         species_found[soort]['count'] = 1
-                    if soort in species_known:
-                        species_found[soort]['known'] = True
-                    else:
-                        species_found[soort]['known'] = False
-                        if soort in species_lookup:
-                            (genus_or_species, soort) = next(iter(species_lookup[soort].items()))
-                        else:
-                            print('Missing species from lookup table: ' + soort)
-                            sys.exit(1)
+                    if soort not in species_lookup:
+                        print('Missing species from replacement file: ' + soort)
+                        sys.exit(1)
 
-                    tag.attrib['k'] = genus_or_species
-                    tag.attrib['v'] = soort
-                    if soort in needleleaved:
-                        is_needleleaved = etree.Element("tag", attrib={'k':'leaf_type', 'v':'needleleaved'})
-                        element.append(is_needleleaved)
-                    else:
-                        is_broadleaved = etree.Element("tag", attrib={'k':'leaf_type', 'v':'broadleaved'})
-                        element.append(is_broadleaved)
+                    tags = species_lookup[soort]
+
+                    for (k, v) in tags.items():
+                        kv_tag = etree.Element("tag", attrib={'k':k, 'v':v})
+                        element.append(kv_tag)
+
+                    element.remove(tag)
 
                 elif key == 'STATUS':
                     if tag.get('v') == 'monumentale boom':
