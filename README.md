@@ -20,11 +20,11 @@ Bij de conversie van de brondata zijn de volgende tags aangemaakt.
 * `start_date` (plantjaar, uit `PLANTJAAR`)
 * `leaf_type` (afgeleid van `BOOMSOORT`) 
 * `leaf_cycle` (afgeleid van `BOOMSOORT`) 
-* `source:ref` (referentienummer uit veld `ELEMENTNR`)
 * `denotation=natural_monument` (voor monumentale bomen)
 * `natural=tree` (🌲)
 * `source=Monumentale en Gedenkbomen dataset gemeente Leeuwarden`
 * `source:date` (datum van publicatie van de brondata)
+* `source:ref` (referentienummer uit veld `ELEMENTNR`)
 
 ## Toepassen in OpenStreetMap
 
@@ -52,6 +52,21 @@ Verder is de soortnaam gebruikt om in ieder geval de `genus`-tag te vullen, en m
 
 Bomen die in de brondata de status van 'monumentale boom' hebben, zijn in `bomen.osm` met
 [`denotation=natural_monument`](https://wiki.openstreetmap.org/wiki/Key:denotation) gemarkeerd.
+
+Omdat in de brondata referentienummers niet uniek zijn, bestaat de `source:ref`-tag steeds uit een
+voorloopnummer (oplopend vanaf 0) gevolgd door het referentienummer (in de vorm
+`voorloopnummer:referentienummer`).
+
+## Coördinaten
+
+Voor de conversie van de coördinaten in de brondata naar de voor JOSM geschikte WGS84 coördinaten is
+deze Proj.4 parameter gebruikt:
+
+```
++towgs84=565.417,50.3319,465.552,-0.398957,0.343988,-1.8774,4.0725
+```
+
+De volledige Proj.4 string op basis van de `.prj` uit de brondata staat in het conversiescript.
 
 ## Toekomst
 
