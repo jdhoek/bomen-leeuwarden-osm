@@ -50,7 +50,7 @@ def convert(file_name):
                     tag.attrib['k'] = 'note'
                 elif key == 'ELEMENTNR':
                     ref = tag.get('v').replace('.0', '')
-                    tag.attrib['k'] = 'source:ref'
+                    tag.attrib['k'] = 'ref:lwdtrees'
                     tag.attrib['v'] = ref
                 elif key == 'BOOMSOORT':
                     soort = tag.get('v').replace("\"", "'")

@@ -24,7 +24,7 @@ Bij de conversie van de brondata zijn de volgende tags aangemaakt.
 * `natural=tree` (🌲)
 * `source=Monumentale en Gedenkbomen dataset gemeente Leeuwarden`
 * `source:date` (datum van publicatie van de brondata)
-* `source:ref` (referentienummer uit veld `ELEMENTNR`)
+* `ref:lwdtrees` (referentienummer uit veld `ELEMENTNR`)
 
 ## Toepassen in OpenStreetMap
 
