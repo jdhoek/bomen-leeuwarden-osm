@@ -609,6 +609,8 @@
   },
   "Fagus sylvatica 'Atropunicea'": {
     "count": 10,
+    "leaf_type": "broadleaved",
+    "leaf_cycle": "deciduous",
     "genus": "Fagus",
     "species": "Fagus sylvatica",
     "taxon": "Fagus sylvatica 'Atropunicea'"

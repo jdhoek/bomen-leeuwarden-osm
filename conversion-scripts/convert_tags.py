@@ -64,6 +64,9 @@ def convert(file_name):
                         sys.exit(1)
 
                     tags = species_lookup[soort]
+                    if not 'leaf_cycle' in tags:
+                        print(soort)
+                        sys.exit(2)
 
                     for (k, v) in tags.items():
                         kv_tag = etree.Element("tag", attrib={'k':k, 'v':v})
